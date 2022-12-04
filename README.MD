@@ -1,4 +1,4 @@
-#### Organizador de arquivos de pastas
+### repositorio de projetos simples e intermediario de automatizacao de tarefas com python
 
--- O programa ao ser executado li um diretorio exemplo do projeto pasta ['Dowloads'] e verifica se existe pasta criadas com os tipos pre configurados no projeto como ['png','csv','pdf']
--- o programa pegas os arquivos espalhados na pasta e organiza-os de acorde com os seus tipos.
+
+- 1 Automatization processos de organizar arquivos por pasta, organiza por tipo de arquivo
