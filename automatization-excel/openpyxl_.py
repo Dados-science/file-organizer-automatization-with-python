@@ -1,8 +1,6 @@
 from openpyxl import load_workbook
 import os
 
-
-
 # pegando caminho raiz 
 base_path = os.path.abspath(os.path.dirname(__file__))
 # caminho completo
